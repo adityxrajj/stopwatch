@@ -1,6 +1,6 @@
 # Stopwatch
 
-This repository contains a simple and elegant **Stopwatchc** built with HTML, CSS, and JavaScript. The application allows users to start, stop, reset, and record lap times in an intuitive and visually appealing interface.
+This repository contains a simple and elegant **Stopwatch** built with HTML, CSS, and JavaScript. The application allows users to start, stop, reset, and record lap times in an intuitive and visually appealing interface.
 
 ## Features
 
