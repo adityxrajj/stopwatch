@@ -133,6 +133,20 @@ body {
     border-bottom: none;
 }
 
+.developer-info {
+    color: #555;
+    position: fixed;
+    bottom: 5px;
+    width: 100%;
+    text-align: center;
+    font-size: 0.9rem;
+}
+
+a {
+    color: #555;
+    text-decoration: none;
+}
+
 ::-webkit-scrollbar {
     width: 8px;
 }
